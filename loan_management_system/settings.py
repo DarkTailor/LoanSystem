@@ -18,7 +18,7 @@ SECRET_KEY = '0k7(=3xy503l5nio^)k29b1ryxyfm)r%k)))4xqq3li4)og%9c'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
-ALLOWED_HOSTS = ['loanmanagement-nahid.herokuapp.com']
+ALLOWED_HOSTS = ['vercel.com/darktailors-projects/loan-system/6Boa9g1TEQ6ZhzYyH9X6pZEULF4Y']
 
 
 # Application definition
